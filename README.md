@@ -1,12 +1,15 @@
 # Malaria-Cell-Image-Classification-Project
 
 **Introduction:**
+
 Malaria is a life-threatening disease caused by parasites transmitted through the bites of infected mosquitoes. Traditionally, diagnosis involves microscopic examination of blood smears, which can be time-consuming and dependent on the expertise of healthcare professionals. This project aims to utilize machine learning techniques to automate the detection of malaria from blood images, improving diagnostic efficiency and accuracy.
 
 **Problem Statement:**
+
 The objective of this project is to identify from blood smears using machine learning to predict whether the sample is taken from an infected person or not.
 
 **Dataset:**
+
 The Dataset used for this Project has 19,290 Images and corresponding rows in a CSV, which has following Variables:
 
 filename: FileName of an Image Sample
