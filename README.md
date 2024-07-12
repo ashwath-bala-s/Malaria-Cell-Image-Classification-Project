@@ -1,4 +1,4 @@
-# Malaria-Cell-Image-Classification-Project
+# Malaria Cell Image Classification Project
 
 **Introduction:**
 
