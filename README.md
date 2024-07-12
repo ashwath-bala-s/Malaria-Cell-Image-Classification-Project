@@ -13,14 +13,19 @@ The objective of this project is to identify from blood smears using machine lea
 The Dataset used for this Project has 19,290 Images and corresponding rows in a CSV, which has following Variables:
 
 filename: FileName of an Image Sample
+
 label: Mentions Whether a blood sample is Malaria infected or not [Target Variable]
 
 **Project Description:**
 
 • Examined and visualized the images to identify patterns and class distributions in the Malaria Detection Dataset.
+
 • Performed label encoding and resized images to 40x40 pixels, flattening them into feature vectors for modelling.
+
 • Achieved a model accuracy of 77% using a Linear SVM model with pixel values as features.
+
 • Utilized Histogram of Oriented Gradients (HOG) features for images resized to 128x64 pixels, enhancing feature representation.
+
 • Achieved a model accuracy of 81% with a Logistic Regression model using HOG features.
 
 **Observation:**
